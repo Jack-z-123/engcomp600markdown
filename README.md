@@ -6,5 +6,10 @@ Install Starcraft 2 through Battle.net
 ## Steps
 1. Open Starcraft 2
 2. Pick a race that looks cool to you
-3. Start a game
-4. Build buildings 
+> ![races](races.png)
+4. Start a game
+5. Build workers (workers harvest resource for you to build up ur army)
+> ![game](game.png)
+7. Build buildings (buildings can let you build your army, upgrades, and unlock higer tier army)
+8. Build up your army and destroy your opponent!
+> ![army](army.png)
